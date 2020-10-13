@@ -1,7 +1,7 @@
 ### Hi there, nice to see you here ✌🏻
 
 Welcome to my Github profile!
-My name is Andi Kratzel and I'm a passionate Frontend Developer from 🇩🇪 **Munich, Germany**, currently living in **Trier, Germany**.
+My name is Andi Kratzel and I'm a passionate Frontend Developer from 🇩🇪 **Munich, Germany**, currently living in 🇩🇪 **Trier, Germany**.
 
 Well, as you can see, my public Github profile is kinda empty and pretty much vacuous. There are reasons for that, though:
 
