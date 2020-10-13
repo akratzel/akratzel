@@ -8,7 +8,7 @@ Well, as you can see, my public Github profile is kinda empty and pretty much va
 
 - I'm mostly working for clients with NDAs 📖 ❌
 - I tend not to share my *private* projects, since they are ... well ... ***private*** 🚷
-- I love coding, but coding is my job and beyond loving what I do, I like to spend my time "offline" - so please bare with me here 🏋🏻‍♂️
+- I love coding, but coding is my *job* and beyond loving what I do, I like to spend my time *offline* - so please bare with me here 🏋🏻‍♂️
 
 ## How to reach me
 I'm more than happy to connect with you either on my ...
