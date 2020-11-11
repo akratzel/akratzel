@@ -21,6 +21,6 @@ Don't hesitate to shoot me a message if you're interested in working with me or 
 
 ## Companies that trust me
 This is only an excerpt of companies I had the pleasure to work with in the last couple of years:
-![Companies I have worked with](https://i.ibb.co/NnB0yZd/Untitled-design.png)
+![Companies I have worked with](https://i.ibb.co/dmpfkQH/Untitled-design-1.png)
 
 ![Until then - see you guys around!](https://i.ibb.co/bssXwp9/Hi-there-1.png)
