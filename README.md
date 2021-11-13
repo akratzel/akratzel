@@ -19,8 +19,4 @@ I'm more than happy to connect with you either on my ...
 
 Don't hesitate to shoot me a message if you're interested in working with me or if you simply want to have an easy conversation about anything you can imagine!
 
-## Companies that trust me
-This is only an excerpt of companies I had the pleasure to work with in the last couple of years:
-![Companies I have worked with](https://i.ibb.co/dmpfkQH/Untitled-design-1.png)
-
-![Until then - see you guys around!](https://i.ibb.co/bssXwp9/Hi-there-1.png)
+![Companies I have worked with](https://i.ibb.co/kDwpSt8/Companies-that-trust-me-1.png)
