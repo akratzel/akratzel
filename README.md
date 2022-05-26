@@ -20,3 +20,5 @@ I'm more than happy to connect with you either on my ...
 Don't hesitate to shoot me a message if you're interested in working with me or if you simply want to have an easy conversation about anything you can imagine!
 
 ![Companies I have worked with](https://export-download.canva.com/u1HVc/DAEvneu1HVc/78/0/0001-12179920516.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20211112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211112T205109Z&X-Amz-Expires=64427&X-Amz-Signature=19b6a12af80d0605249c7481264183adad648de5367bfdb129e1406dfc06dea9&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Companies%2520that%2520trust%2520me.png&response-expires=Sat%2C%2013%20Nov%202021%2014%3A44%3A56%20GMT)
+
+https://img.shields.io/badge/github/package-json/v/:akratzel/:akratzel
