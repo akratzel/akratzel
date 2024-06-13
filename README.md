@@ -15,8 +15,6 @@ I'm more than happy to connect with you either on my ...
 
 - [LinkedIn](https://www.linkedin.com/in/der-kratzel/)
 - [Instagram](https://instagram.com/derkratzel)
-- [Personal Website](https://www.der-kratzel.de)
+- [Personal Website](https://www.der-kratzel.dev)
 
 Don't hesitate to shoot me a message if you're interested in working with me or if you simply want to have an easy conversation about anything you can imagine!
-
-![Companies I have worked with](https://i.ibb.co/56wKNCF/Companies-that-trust-me.png)
